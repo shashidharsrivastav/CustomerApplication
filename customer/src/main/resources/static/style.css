@@ -1,0 +1,22 @@
+body{
+    height:100%;
+    width:100%;
+      background-color:Orange;
+}
+form{
+    font-family:'Courier New', Courier, monospace;
+    text-align:center;
+    transform: matrix();
+    font-size:block;
+    color:blue;
+}
+.head{
+    height:10%;
+    width: 100%;
+    background:yellowgreen;
+}
+.foot{
+    height: 20%;
+    width: 100%;
+    background-color: coral;
+}
